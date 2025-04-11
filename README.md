@@ -3,6 +3,8 @@
 
 Сборка на основе качественной модификации. Идеи мода использовали авторы Forge, Factorio, ... И это не шутка!
 
+[Здесь](https://docs.google.com/spreadsheets/d/1EWlmO0KMmtw6jHtct__9XcRD9BBBmOhlGWTnYgVlz28/edit?usp=sharing) можно ознакомиться со списком модов.
+
 # Installation
 - Установите Minecraft 1.20.1. Выберите одну из папок (пустых) и запомните её.
 - Установите Forge 47.3.24, выбрав ту же папку.
